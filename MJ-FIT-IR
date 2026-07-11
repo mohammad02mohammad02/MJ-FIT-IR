@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MJ.FIT.IR | Mohammad Jalali</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <div class="logo">MJ</div>
+    <h1>MOHAMMAD JALALI</h1>
+    <p>Fitness Athlete | Discipline | Lifestyle</p>
+    <a href="#" class="btn">Instagram</a>
+</header>
+
+<section>
+    <h2>درباره من</h2>
+    <p>
+    من محمد جلالی هستم. مسیر من در فیتنس بر پایه تمرین، نظم و ساختن بهترین نسخه از خودم است.
+    </p>
+</section>
+
+<section class="gallery">
+    <h2>گالری</h2>
+    <div class="box">عکس شما</div>
+    <div class="box">عکس شما</div>
+    <div class="box">عکس شما</div>
+</section>
+
+<section>
+    <h2>ارتباط با من</h2>
+    <p>@MJ.FIT.IR</p>
+</section>
+
+<footer>
+© 2026 MJ.FIT.IR
+</footer>
+
+</body>
+</html>
