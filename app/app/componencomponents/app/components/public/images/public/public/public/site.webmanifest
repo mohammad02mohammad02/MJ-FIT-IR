@@ -1,0 +1,16 @@
+{
+  "name": "MJ.FIT.IR",
+  "short_name": "MJ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "description": "Elite Fitness Coach",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
